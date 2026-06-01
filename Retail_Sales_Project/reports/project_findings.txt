@@ -1,0 +1,132 @@
+Retail Sales Analysis Project Findings
+1. Overall Business Performance
+
+The company generated total sales of $2.30 million and total profit of approximately $286,397, resulting in an overall positive business performance.
+
+Technology was the strongest-performing category, contributing the highest sales and profit, while Furniture showed weaker profitability despite substantial sales volume.
+
+2. Category Performance
+Sales by Category
+Category	Sales
+Technology	$836,154
+Furniture	$741,999
+Office Supplies	$719,047
+
+Technology generated the highest revenue, followed by Furniture and Office Supplies.
+
+Profit by Category
+Category	Profit
+Technology	$145,455
+Office Supplies	$122,491
+Furniture	$18,451
+
+Key finding:
+
+Technology generated both the highest sales and highest profit.
+Furniture generated significant sales but very low profit compared to the other categories.
+Office Supplies delivered strong profitability relative to its sales volume.
+
+3. Monthly Sales Trend
+
+Sales increased steadily from 2014 through 2017.
+
+Notable observations:
+
+Sales peaks consistently occurred during September, November, and December.
+November 2017 recorded the highest monthly sales of approximately $118,448.
+Overall sales growth indicates expanding business performance over time.
+
+Business implication:
+
+The final quarter of the year appears to be the strongest sales period.
+Marketing and inventory planning should focus heavily on Q4 demand.
+
+4. Regional Performance
+Sales and Profit by Region
+Region	Sales	Profit
+West	$725,458	$108,418
+East	$678,781	$91,523
+Central	$501,240	$39,706
+South	$391,722	$46,749
+
+Key findings:
+
+West region generated the highest sales and profit.
+East region was the second-best performer.
+Central region produced relatively high sales but significantly lower profit.
+
+5. Profit Margin by Region
+Region	Profit Margin
+West	14.94%
+East	13.48%
+South	11.93%
+Central	7.92%
+
+Key findings:
+
+West region is the most efficient and profitable region.
+Central region has the lowest profit margin despite reasonable sales volume.
+Profitability improvement efforts should focus on the Central region.
+
+6. Discount Analysis
+
+Average discount by region:
+
+Region	Average Discount
+Central	24.0%
+South	14.7%
+East	14.5%
+West	10.9%
+
+Key finding:
+
+The Central region receives the highest average discount while also generating the lowest profit margin.
+
+Business implication:
+
+Excessive discounting may be reducing profitability.
+Discount policies should be reviewed in the Central region.
+7. Loss-Making Sub-Categories
+Sub-Category	Sales	Profit
+Tables	$39,155	-$3,560
+Bookcases	$24,157	-$1,998
+
+Key findings:
+
+Tables generated the largest loss.
+Bookcases also contributed negative profit.
+Both products belong to the Furniture category, helping explain Furniture's weak overall profitability.
+
+Business implication:
+
+Pricing, discounting, and supply costs for Tables and Bookcases should be reviewed.
+8. Top Customers by Profit
+
+The most profitable customers include:
+
+Tamara Chand
+Raymond Buch
+Sanjit Chand
+Hunter Lopez
+Adrian Barton
+
+Key finding:
+
+A small group of customers contributes significantly to company profit.
+
+Business implication:
+
+These customers should be prioritized through loyalty programs and retention strategies.
+9. Top States by Sales
+
+Analysis of state-level sales revealed that a few states contribute a large portion of total company revenue.
+
+Business implication:
+
+High-performing states should receive continued marketing and inventory investment.
+Lower-performing states may require targeted growth strategies.
+Final Conclusion
+
+The business is growing steadily, with strong year-over-year sales growth and positive profitability. Technology products and the West region are the primary drivers of success. However, profitability is being negatively affected by high discounting, particularly in the Central region, and by loss-making Furniture sub-categories such as Tables and Bookcases. Reducing excessive discounts and improving the performance of underperforming products could significantly increase overall profitability.
+
+These findings are strong enough for a beginner-to-intermediate portfolio project and would fit well in a GitHub project, portfolio website, or interview discussion.

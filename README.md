@@ -97,4 +97,4 @@ Approximately 12 hours.
 
 ## Author
 
-Joseph Mumo
+Collins Mumo
